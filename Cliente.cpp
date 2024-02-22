@@ -29,8 +29,7 @@ class Cliente : Persona {
 	string getApellidos(){return apellidos;}
 	string getDireccion(){return direccion;}
 	int getTelefono(){return telefono;}
-	
-	
+		
 	//metodos
 	void mostrar(){
 		cout << "_________________" << endl;
